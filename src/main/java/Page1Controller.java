@@ -14,4 +14,8 @@ public class Page1Controller {
     protected  void num1(ActionEvent e){
         System.out.println("1");
     }
+    @FXML
+    protected  void num2(ActionEvent e){
+        System.out.println("1");
+    }
 }
