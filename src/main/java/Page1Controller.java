@@ -10,4 +10,8 @@ public class Page1Controller {
     protected  void num(ActionEvent e){
         System.out.println("1");
     }
+    @FXML
+    protected  void num1(ActionEvent e){
+        System.out.println("1");
+    }
 }
